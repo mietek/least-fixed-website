@@ -1,0 +1,16 @@
+---
+title: Least Fixed
+body-class: index
+---
+
+
+# Functional software development.
+
+<a href="" id="hello">Say hello.</a>
+
+
+<script>
+addEventListener('load', function () {
+  document.getElementById('hello').href = magic.rot13('znvygb:uryyb@yrnfgsvkrq.pbz');
+});
+</script>

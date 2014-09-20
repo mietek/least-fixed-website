@@ -1,0 +1,22 @@
+body
+  font-family: "Helvetica Neue", Helvetica, sans-serif
+
+.index header
+  @include background-color(white, 2/3)
+
+.index main
+  padding-bottom: ln(4)
+  position: relative
+
+.index main:before
+  @include image(hands, svg)
+  background-position: center bottom
+  background-size: 100% auto
+  position: absolute
+  bottom: 0
+  left: 0
+  right: 0
+  width: 100%
+  height: 100%
+  z-index: -1
+  content: ""

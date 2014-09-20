@@ -1,0 +1,11 @@
+{
+  "name": "leastfixed.com",
+  "description": "Website for Least Fixed",
+  "authors": [
+    "Miëtek Bak <hello@mietek.io>"
+  ],
+  "license": "MIT X11",
+  "dependencies": {
+    "cannot": "*"
+  }
+}
