@@ -9,7 +9,17 @@ Built with [Cannot](https://github.com/mietek/cannot/).
 Usage
 -----
 
-TODO
+Do you need a website?  Say hello@mietek.io
+
+
+### Installation
+
+```sh
+bower install least-fixed-website
+make
+```
+
+Requires [Bower](http://bower.io/) and everything [Cannot](https://github.com/mietek/cannot/) needs.
 
 
 License
