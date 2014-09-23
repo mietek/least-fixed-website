@@ -1,5 +1,4 @@
 ---
-title: Least Fixed
 body-class: index
 ---
 
