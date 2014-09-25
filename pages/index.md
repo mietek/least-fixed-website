@@ -1,4 +1,5 @@
 ---
+title: Functional software development
 body-class: index
 ---
 
