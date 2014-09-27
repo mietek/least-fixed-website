@@ -11,6 +11,6 @@ body-class: index
 
 <script>
 addEventListener('load', function () {
-  document.getElementById('hello').href = magic.rot13('znvygb:uryyb@yrnfgsvkrq.pbz');
+  document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@yrnfgsvkrq.pbz');
 });
 </script>
