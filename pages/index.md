@@ -1,6 +1,6 @@
 ---
 title: Functional software development
-body-class: index
+html-class: index
 ---
 
 

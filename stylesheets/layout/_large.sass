@@ -1,8 +1,12 @@
-nav h1 a
+h1
+  letter-spacing: -2px
+
+
+nav.menu-bar h1.logotype a
   width: 160px
   background-size: 160px ln(1)
 
-header nav h1 a
+header nav.menu-bar h1.logotype a
   @include smart-image-glow($accent-color)
   @include image("logotype-large", "png")
   @include frob-when-frobbed
@@ -11,7 +15,7 @@ header nav h1 a
     text-shadow: none
     transition: ease(filter, 1, 0), ease(-webkit-filter, 1, 0)
 
-footer nav h1 a
+footer nav.menu-bar h1.logotype a
   @include smart-image-glow($accent-color)
   @include image("logotype-gray9-large", "png")
   @include frob-when-frobbed
@@ -19,7 +23,3 @@ footer nav h1 a
   @include frob-always
     text-shadow: none
     transition: ease(filter, 1, 0), ease(-webkit-filter, 1, 0)
-
-
-main h1
-  letter-spacing: -2px
