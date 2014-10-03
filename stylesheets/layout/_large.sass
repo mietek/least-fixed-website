@@ -1,10 +1,7 @@
-h1
-  letter-spacing: -2px
-
-
 nav.menu-bar h1.logotype a
   width: 160px
   background-size: 160px ln(1)
+
 
 header nav.menu-bar h1.logotype a
   @include smart-image-glow($accent-color)
@@ -14,6 +11,9 @@ header nav.menu-bar h1.logotype a
   @include frob-always
     text-shadow: none
     transition: ease(filter, 1, 0), ease(-webkit-filter, 1, 0)
+
+section.level1 h1
+  letter-spacing: -2px
 
 footer nav.menu-bar h1.logotype a
   @include smart-image-glow($accent-color)

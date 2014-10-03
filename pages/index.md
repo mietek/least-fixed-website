@@ -6,7 +6,7 @@ html-class: index
 
 # Functional software development.
 
-<a href="" id="hello">Say hello.</a>
+Say <a href="" id="hello">hello</a>.
 
 
 <script>
