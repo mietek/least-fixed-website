@@ -4,7 +4,7 @@ html-class: index
 ---
 
 
-# Functional software development.
+# Functional software development
 
 Say <a href="" id="hello">hello</a>.
 
