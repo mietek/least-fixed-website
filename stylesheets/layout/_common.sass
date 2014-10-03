@@ -5,6 +5,7 @@ body
 
 nav.menu-bar h1.logotype a
   @include no-text
+  @include smart-image-glow($blue)
 
 
 section.level1 h1
@@ -19,7 +20,6 @@ section.level1 h1
   display: flex
   flex-direction: column
   justify-content: flex-end
-  position: relative
 
 .index main:before
   @include image(hands-grayC, svg)

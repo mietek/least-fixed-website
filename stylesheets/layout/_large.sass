@@ -4,22 +4,10 @@ nav.menu-bar h1.logotype a
 
 
 header nav.menu-bar h1.logotype a
-  @include smart-image-glow($accent-color)
-  @include image("logotype-large", "png")
-  @include frob-when-frobbed
-    @include image("logotype-blue-large", "png")
-  @include frob-always
-    text-shadow: none
-    transition: ease(filter, 1, 0), ease(-webkit-filter, 1, 0)
+  @include smart-logotype(color, blue, large)
 
 section.level1 h1
   letter-spacing: -2px
 
 footer nav.menu-bar h1.logotype a
-  @include smart-image-glow($accent-color)
-  @include image("logotype-gray9-large", "png")
-  @include frob-when-frobbed
-    @include image("logotype-blue-large", "png")
-  @include frob-always
-    text-shadow: none
-    transition: ease(filter, 1, 0), ease(-webkit-filter, 1, 0)
+  @include smart-logotype(gray9, blue, large)
