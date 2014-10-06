@@ -1,6 +1,9 @@
 ---
 title: Functional software development
 page-class: index
+page-data:
+  - key: min-section-link-level
+    value: 2
 page-footer: |
   <script>
     addEventListener('load', function () {
