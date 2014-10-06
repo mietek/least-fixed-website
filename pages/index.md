@@ -1,6 +1,6 @@
 ---
 title: Functional software development
-html-class: index
+page-class: index
 page-footer: |
   <script>
     addEventListener('load', function () {
