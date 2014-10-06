@@ -8,13 +8,7 @@ nav.menu-bar h1.logotype a
   @include smart-image-glow($blue)
 
 
-section.level1
-  @include rule-before($accent-color)
-  background: rgba(white, 0.8)
-  padding-top: ln(1)
-  padding-bottom: ln(3)
-
-section.level1 h1
+section h1
   font-weight: 500
 
 
@@ -42,3 +36,9 @@ section.level1 h1
   right: 0
   z-index: -1
   content: ""
+
+.index section.level1
+  @include rule-before($accent-color)
+  background: rgba(white, 0.8)
+  padding-top: ln(1)
+  padding-bottom: ln(3)
