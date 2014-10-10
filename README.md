@@ -9,4 +9,4 @@ Built with [_cannot_](http://mietek.github.io/cannot/).
 License
 -------
 
-Made by [Miëtek Bak](http://mietek.io/).  Published under the [MIT X11 license](https://github.com/mietek/license/blob/master/LICENSE.md).
+Made by [Miëtek Bak](http://mietek.io/).  Published under the [MIT X11 license](http://leastfixed.com/license/).
