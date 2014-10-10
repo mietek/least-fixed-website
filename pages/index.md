@@ -1,9 +1,6 @@
 ---
-title: Functional software development
+title: Functional software consultancy
 page-class: index
-page-data:
-  - key: min-section-link-level
-    value: 2
 page-footer: |
   <script>
     addEventListener('load', function () {
@@ -13,6 +10,6 @@ page-footer: |
 ---
 
 
-# Functional software development
+# Functional software consultancy
 
 Say <a href="" id="hello">hello</a>.
