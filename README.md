@@ -1,9 +1,9 @@
-[Least Fixed website](http://leastfixed.com/)
+_least-fixed-website_
 =====================
 
-Not intended for public use.
+[Least Fixed website](http://leastfixed.com/).
 
-Built with [_cannot_](http://mietek.github.io/cannot/).
+Built with [_cannot_](http://cannot.mietek.io/).
 
 
 License
