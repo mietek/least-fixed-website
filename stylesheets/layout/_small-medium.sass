@@ -2,11 +2,15 @@ nav.menu-bar h1.logotype a
   background-size: 120px ln(1)
 
 
-header nav h1 a
+header nav.menu-bar h1.logotype a
   @include smart-logotype(color, blue, small)
 
 section.level1 h1
   letter-spacing: -1px
 
-footer nav h1 a
+footer nav.menu-bar h1.logotype a
   @include smart-logotype(gray9, blue, small)
+
+
+.index header nav.menu-bar h1.logotype a
+  @include smart-logotype(blue, blue, small)
