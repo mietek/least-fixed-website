@@ -10,6 +10,7 @@ page-footer: |
 ---
 
 
-# Functional software consultancy
+Functional software consultancy
+===============================
 
 Say <a href="" id="hello">hello</a>.
