@@ -1,7 +1,5 @@
-_least-fixed-website_
-=====================
-
-[Least Fixed website](http://leastfixed.com/).
+_[least-fixed](http://leastfixed.com/)-website_
+===============================================
 
 Built with [_cannot_](http://cannot.mietek.io/).
 
