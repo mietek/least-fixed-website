@@ -10,7 +10,9 @@ page-footer: |
 ---
 
 
-Functional software consultancy
-===============================
+Functional software consultancy.
+================================
+
+Specialising in Haskell development.
 
 Say <a href="" id="hello">hello</a>.
