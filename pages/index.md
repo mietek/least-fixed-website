@@ -10,8 +10,8 @@ page-footer: |
 ---
 
 
-Functional software consultancy.
-================================
+Functional software consultancy
+===============================
 
 Specialising in Haskell development.
 
