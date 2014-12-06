@@ -1,6 +1,6 @@
 ---
 title: Functional software consultancy
-page-class: index
+page-class: index rule-before-h1
 page-schema: https://data-vocabulary.org/Organization
 page-footer: |
   <aside>
