@@ -6,8 +6,9 @@ page-footer: |
   <aside>
   <p>
     Least Fixed Ltd.
-    Registered at 15 Thompson Road, Blackpool, FY4 5PN, England and Wales.
-    Cº Nº 8314925. VAT Nº GB153228820.
+    Jubilee House, East Beach, Lytham St. Annes, FY8 5FT.
+    Cº Nº 8314925, England and Wales.
+    VAT Nº GB153228820.
     Based in <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="locality">Cambridge</span>, <span itemprop="country-name">UK</span></span>.
   </p>
   </aside>
